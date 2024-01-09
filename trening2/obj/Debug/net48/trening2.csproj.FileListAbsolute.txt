@@ -1,0 +1,10 @@
+I:\trening2\trening2\trening2\bin\Debug\net48\trening2.exe.config
+I:\trening2\trening2\trening2\bin\Debug\net48\trening2.exe
+I:\trening2\trening2\trening2\bin\Debug\net48\trening2.pdb
+I:\trening2\trening2\trening2\obj\Debug\net48\trening2.csproj.AssemblyReference.cache
+I:\trening2\trening2\trening2\obj\Debug\net48\trening2.GeneratedMSBuildEditorConfig.editorconfig
+I:\trening2\trening2\trening2\obj\Debug\net48\trening2.AssemblyInfoInputs.cache
+I:\trening2\trening2\trening2\obj\Debug\net48\trening2.AssemblyInfo.cs
+I:\trening2\trening2\trening2\obj\Debug\net48\trening2.csproj.CoreCompileInputs.cache
+I:\trening2\trening2\trening2\obj\Debug\net48\trening2.exe
+I:\trening2\trening2\trening2\obj\Debug\net48\trening2.pdb
